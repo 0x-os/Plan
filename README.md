@@ -11,10 +11,10 @@ WebRM will enable the user to be able to personalise webpages to their preferenc
 Currently there are three options:
 1. Use an extension framework
 
-| Pros | Cons |
-+------+------+
-| Convenient | no control on when updates get pushed meaning vulnerabilities may be prevalent |
-|    | If such framework stops being maintained the could be detimental to WebRM |
+|Pros|Cons|
+|:-|:-|
+|Convenient|no control on when updates get pushed meaning vulnerabilities may be prevalent|
+||If such framework stops being maintained the could be detimental to WebRM|
 
 2. Create our own extension framework
 3. Directly inject coding into the browser
