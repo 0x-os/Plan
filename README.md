@@ -10,6 +10,7 @@ WebRM will enable the user to be able to personalise webpages to their preferenc
 
 Currently there are three options:
 1. Use an extension framework
+
 | Pros | Cons |
 +------+------+
 | Convenient | no control on when updates get pushed meaning vulnerabilities may be prevalent |
