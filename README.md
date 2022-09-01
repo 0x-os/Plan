@@ -13,7 +13,7 @@ WebRM will enable the user to be able to personalise webpages to their preferenc
 
 |Pros|Cons|
 |:-|:-|
-|Convenient|no control on when updates get pushed meaning vulnerabilities may be prevalent|
+|Convenient|No control on when updates get pushed meaning vulnerabilities may be prevalent|
 |Decreased development time?|If such framework stops being maintained the could be detimental to WebRM|
 ||If a browser has a breaking change we'd ave to wait for the framework to account for such changes (if they even attempt to do so)|
 
