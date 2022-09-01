@@ -26,6 +26,7 @@ WebRM will enable the user to be able to personalise webpages to their preferenc
 |We'd have control on the maintenance of the framework|Whenever a supported browser has a breaking change we may have to be made to the framework|
 
 3. Directly inject code into the browser
+
 |Pros|Cons|
 |:-|:-|
 ||Breaking changes to browsers|
