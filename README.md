@@ -8,17 +8,17 @@ WebRM will enable the user to be able to personalise webpages to their preferenc
 
 ## Tools
 
-- [] Next js
-    - [] Styled Components
-    - [] State Management
-        - [] Redux (Gatsby, etc)
-        - [] Apollo
-        - [] Redis
-        - [] SWR
-        - [] Recoil
-- [] Astro
-- [] Scraping Library
-    - [] JSoup
-    - [] Selenium
-    - [] BeautifulSoup
+- [ ] Next js
+    - [ ] Styled Components
+    - [ ] State Management
+        - [ ] Redux (Gatsby, etc)
+        - [ ] Apollo
+        - [ ] Redis
+        - [ ] SWR
+        - [ ] Recoil
+- [ ] Astro
+- [ ] Scraping Library
+    - [ ] JSoup
+    - [ ] Selenium
+    - [ ] BeautifulSoup
 
