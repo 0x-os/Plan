@@ -1,14 +1,33 @@
 # Project WebRM
 
-Project WebRM (placeholder name) is an attempt to give users control over the way information is presented to them.
+Project WebRM (Web Remanage) is an attempt to give users control over the way information is presented to them.
 
 ## Overview
 
-WebRM will enable the user to be able to personalise webpages to their preferences. WebRM aims to achieve this by utilise similar techiques to MitB (Man in the Browser) attacks to modify the content of webpages (client-side).
+WebRM will enable the user to be able to personalise webpages to their preferences (styling as well as the contents of the information presented). WebRM aims to achieve this by utilising similar techiques to MitB (Man in the Browser) attacks to modify the content of webpages (client-side).
 
 ## Road Map
 
-### Currently there are three options:
+### Phases
+Phase 1:
+    develop frontend micro framework
+
+Phase 2:
+    develop a tool that is able to convert website data into a format that is readable to the frontend micro framework
+
+Phase 3:
+    Develop a tool that is able to conbine the previous two phases into a web extension that is supported on atleast safari and chrome
+
+### Phase 1
+Required features:
+ - island architecture
+ - partial hydration
+ - component based
+ - virtual DOM with shadow DOM integration
+
+### Phase 2
+
+#### Currently there are three options:
 1. Use an extension framework
 
 |Pros|Cons|
