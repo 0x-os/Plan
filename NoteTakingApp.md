@@ -20,6 +20,8 @@
 |Has abstractions for javascript/typescript||
 |Allows for future refactoring for improvements in performance (i.e. slowing porting everything to rust)||
 
+---
+
 ### Frontend
 
 - React   — Slow
