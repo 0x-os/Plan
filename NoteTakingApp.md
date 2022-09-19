@@ -1,6 +1,11 @@
 # Note taking app
 
+## Features
+
+
 ## Stack
+
+### Backend
 
 Electron
 |Pros|Cons|
@@ -13,6 +18,14 @@ Tauri
 |:-|:-|
 |Written in rust (stupidly fast and can be made even more performant effecient)|Less known (documentation is harder to read)|
 |Has abstractions for javascript/typescript||
+
+### Frontend
+
+React   — Slow
+Preact  — Not familliar with how to use it
+Vue     — Never used it before
+Yew     — written in rust (not that familliar with the language)
+PRIRE   — Not finished yet
 
 ## app Editor
 
