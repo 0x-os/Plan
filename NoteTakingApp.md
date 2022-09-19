@@ -7,13 +7,13 @@
 
 ### Backend
 
-Electron
+#### Electron
 |Pros|Cons|
 |:-|:-|
 |Most well known|Slow (hard to make performant effecient)|
 |Entirely written in javascript/typescript|chromium based|
 
-Tauri
+#### Tauri
 |Pros|Cons|
 |:-|:-|
 |Written in rust (stupidly fast and can be made even more performant effecient)|Less known (documentation is harder to read)|
