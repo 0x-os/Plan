@@ -27,6 +27,6 @@ Vue     — Never used it before
 Yew     — written in rust (not that familliar with the language)
 PRIRE   — Not finished yet
 
-## app Editor
+## App Editor
 
 ## Text Editor
