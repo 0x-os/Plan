@@ -18,6 +18,7 @@ Tauri
 |:-|:-|
 |Written in rust (stupidly fast and can be made even more performant effecient)|Less known (documentation is harder to read)|
 |Has abstractions for javascript/typescript||
+|Allows for future refactoring for improvements in performance (i.e. slowing porting everything to rust)||
 
 ### Frontend
 
