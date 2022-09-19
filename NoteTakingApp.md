@@ -21,11 +21,11 @@ Tauri
 
 ### Frontend
 
-React   — Slow
-Preact  — Not familliar with how to use it
-Vue     — Never used it before
-Yew     — written in rust (not that familliar with the language)
-PRIRE   — Not finished yet
+- React   — Slow
+- Preact  — Not familliar with how to use it
+- Vue     — Never used it before
+- Yew     — written in rust (not that familliar with the language)
+- PRIRE   — Not finished yet
 
 ## App Editor
 
