@@ -12,12 +12,18 @@ possible processes:
  - If website is marked as edited redirect any attempts to visit the page to another page that is webscraping the data from the orginal site
  - Webextension that activates when a site that has be marked edited is loaded and replaces the entire website data
 
-P). Needs to be performant efficient as some peoples internet speed may not be able to handle heaving page renders.
-S). Island architecture utilising partial hydration to ensure only components that need to be shipped with javascript get reloaded and not static components.
-P). All frameworks supporting island architecture are designed for websites that have multiple pages, for this only a single page needs to be accounted for. (bloat)
-S). Design a frontend mirco-framework that is tuned specifically for webrm (performance efficient)
-P). Having web data sent from the web server to the user's browser and then to the webrm server and back again may result with slow page load times if the user in limited in terms of bandwidth. (privacy cncerns as well)
-S). Have everything rendered on the user's side, potential for having enabling on site SSR (user's own server) or an opt in usage of a webrm server.
+P).
+    Needs to be performant efficient as some peoples internet speed may not be able to handle heaving page renders.
+S).
+    Island architecture utilising partial hydration to ensure only components that need to be shipped with javascript get reloaded and not static components.
+P).
+    All frameworks supporting island architecture are designed for websites that have multiple pages, for this only a single page needs to be accounted for. (bloat)
+S).
+    Design a frontend mirco-framework that is tuned specifically for webrm (performance efficient)
+P).
+    Having web data sent from the web server to the user's browser and then to the webrm server and back again may result with slow page load times if the user in limited in terms of bandwidth. (privacy cncerns as well)
+S).
+    Have everything rendered on the user's side, potential for having enabling on site SSR (user's own server) or an opt in usage of a webrm server.
 
 ## Road Map
 
